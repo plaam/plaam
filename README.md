@@ -2,8 +2,7 @@
 A 17 year old, freelance developer & software engineer.
 
 ##### Education 🎓
-Henceforward, I'm studying Computer Science at my education centre, moreover, I'm spending a lot of time on self-improvement by getting valuable courses and learning new programming languages.
-In addition, I've finished CS50x computer science course, and learning C# now.
+Henceforward, I'm studying Computer Science at my education centre, moreover, I'm spending a lot of time on self-improvement by getting valuable courses and learning new programming languages. In addition, I've finished CS50x computer science course, Thinkful web development course and some others.
 
 ##### Programming languages 🔧
 My first programming language was C++, and I'm still being involved in the learning process, but personally, I believe that current education state is pretty high.</br>
