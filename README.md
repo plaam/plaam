@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Dan.
+##### Hi there 👋 I'm Dan.
 A 17 year old, freelance developer & software engineer, IT administrator.
 
 ##### Education 🎓
@@ -13,8 +13,8 @@ Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly
 ##### Projects 👨🏻‍💻
 Currently, I've not got enough free time to contribute to some public projects, but as for now, I'm trying to divide the time between self learning and participating at projects.
 
-#### Where am I 📱
+##### Where am I 📱
 Discord: plam#0001</br>
-Slack: </br>
+Slack: (associated email) plaam.dev@gmail.com </br>
 Telegram: @plaaam </br>
 Website: https://plaam.tk/ </br>
