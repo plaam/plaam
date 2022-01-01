@@ -10,7 +10,7 @@ My first programming language was C++, and I'm still being involved in the learn
 As for now, I'm pretty good at front-end part *(especially: JavaScript - TypeScript, HTML&CSS, rudimentary knowledge of php)*. 
 Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly compared to C++ for OOP prospects.
 
-#### Projects 👨🏻‍💻
+##### Projects 👨🏻‍💻
 Currently, I've not got enough free time to contribute to some public projects, but as for now, I'm trying to divide the time between self learning and participating at projects.
 
 #### Where am I 📱
