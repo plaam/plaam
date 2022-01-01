@@ -15,6 +15,6 @@ Currently, I've not got enough free time to contribute to some public projects, 
 
 ##### Where am I 📱
 Discord: plam#0001</br>
-Slack: (associated email) plaam.dev@gmail.com </br>
+Slack: plaam.dev </br>
 Telegram: @plaaam </br>
 Website: https://plaam.tk/ </br>
