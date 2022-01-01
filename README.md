@@ -1,4 +1,4 @@
-##### Hi there 👋 I'm Dan.
+#### Hi there 👋 I'm Dan.
 A 17 year old, freelance developer & software engineer.
 
 ##### Education 🎓
