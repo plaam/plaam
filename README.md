@@ -1,5 +1,5 @@
 ##### Hi there 👋 I'm Dan.
-A 17 year old, freelance developer & software engineer, IT administrator.
+A 17 year old, freelance developer & software engineer.
 
 ##### Education 🎓
 Henceforward, I'm studying Computer Science at my education centre, moreover, I'm spending a lot of time on self-improvement by getting valuable courses and learning new programming languages.
