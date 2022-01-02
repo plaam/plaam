@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=plaam.plaam)
 #### Hi there 👋 I'm Dan.
 A 17 year old, freelance developer & software engineer.
 
