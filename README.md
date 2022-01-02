@@ -10,7 +10,7 @@ As for now, I'm pretty good at front-end part *(especially: JavaScript - TypeScr
 Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly compared to C++ for its OOP prospects.</br>
 
 ##### Projects 👨🏻‍💻
-Currently, I've not got enough free time to contribute to some public projects, but as for now, I'm trying to divide the time between self learning and participating at projects.
+Currently, I've not got enough free time to contribute to some public projects, but apparently, I'll be trying to divide the time between self-learning and participating at projects.
 
 ##### Where am I 📱
 Discord: plam#0001</br>
