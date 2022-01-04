@@ -1,7 +1,7 @@
 #### Hi there 👋 I'm Dan.
 A 17 year old, freelance developer & software engineer.
 
-##### Education 🎓
+##### Current education 🎓
 Henceforward, I'm studying Computer Science at my education center, moreover, I'm spending a lot of time on self-improvement by getting valuable courses and learning new programming languages. In addition, I've finished CS50x computer science course, Thinkful web development course and some others.
 
 ##### Programming languages 🔧
