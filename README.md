@@ -20,7 +20,6 @@ Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="32" style="vertical-align:top; margin:4px">  
 </p>
 
-
 ##### Projects 👨🏻‍💻
 Currently, I've not got enough free time to contribute to some public projects, but apparently, I'll be trying to divide the time between self-learning and participating at projects.
 
