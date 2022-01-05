@@ -9,7 +9,7 @@ My first programming language was C++, and I'm still being involved in the learn
 As for now, I'm pretty good at front-end part *(especially: JavaScript - TypeScript, HTML&CSS, rudimentary knowledge of PHP)*. </br>
 Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly compared to C++ for its OOP prospects.</br>
 
-<p align = "left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="32" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="32" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="32" style="vertical-align:top; margin:4px">
