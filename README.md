@@ -1,4 +1,4 @@
-#### What's up 👋
+#### Hello! 👋
 I'm a 17 year old, freelance developer & software engineer!
 
 ##### Current education 🎓
