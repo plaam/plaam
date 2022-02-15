@@ -26,5 +26,4 @@ Currently, I've not got enough free time to contribute to some public projects, 
 Discord: plam#0001</br>
 Slack: plaam.dev </br>
 Telegram: @plaaam </br>
-Website: https://plaam.tk/ 
-</br>
+Website: https://plaam.tk/ </br>
