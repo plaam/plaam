@@ -2,7 +2,6 @@
 I'm a 17 year old, freelance developer & software engineer!
 ##### Current education 🎓
 Henceforward, I'm studying Computer Science at my education center, moreover, I'm spending a lot of time on self-improvement by getting valuable courses and learning new programming languages. In addition, I've finished CS50x computer science course, Thinkful web development course and some others.
-
 ##### Programming languages 🔧
 My first programming language was C++, and I'm still being involved in the learning process, but personally, I believe that current education state is pretty high.</br>
 As for now, I'm pretty good at front-end part *(especially: JavaScript - TypeScript, HTML&CSS, rudimentary knowledge of PHP)*. </br>
