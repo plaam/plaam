@@ -6,6 +6,7 @@ Henceforward, I'm studying Computer Science at my education center, moreover, I'
 My first programming language was C++, and I'm still being involved in the learning process, but personally, I believe that current education state is pretty high.</br>
 As for now, I'm pretty good at front-end part *(especially: JavaScript - TypeScript, HTML&CSS, rudimentary knowledge of PHP)*. </br>
 Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly compared to C++ for its OOP prospects.</br>
+
 <p align = "left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="32" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="32" style="vertical-align:top; margin:4px">
@@ -15,6 +16,7 @@ Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" alt="C" height="32" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="32" style="vertical-align:top; margin:4px">
 </p>
+
 ##### Projects 👨🏻‍💻
 Currently, I've not got enough free time to contribute to some public projects, but apparently, I'll be trying to divide the time between self-learning and participating at projects.
 
