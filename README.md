@@ -19,6 +19,7 @@ Hopefully, 2022 will bring me an ability to learn C#, since it's actually mostly
 
 ##### Projects 👨🏻‍💻
 Currently, I've not got enough free time to contribute to some public projects, but apparently, I'll be trying to divide the time between self-learning and participating at projects.
+
 ##### Where am I 📱
 Discord: plam#0001</br>
 Slack: plaam.dev </br>
