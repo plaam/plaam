@@ -25,4 +25,3 @@ Discord: plam#0001</br>
 Slack: plaam.dev </br>
 Telegram: @plaaam </br>
 Website: https://plaam.tk/ </br>
-
